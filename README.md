@@ -1,2 +1,2 @@
 # WhatsappAutomationTool
-This is a whatsapp automation tool designed in Python. It can be used to send important message at a specific time so that we don't have to disturb our busy life just because of sending a message at a specific time.   
+This is a whatsapp automation tool designed in Python. It can be used to send important message at a specific time so that we don't have to disturb our busy life just because of sending a message at a specific time. The only thing we have to do is write number to which we have to send the message , type the message and then the special time for the message.It will automatically open the whatsapp through whatsapp web in the default browser because of the library of Pythan used in the program.
